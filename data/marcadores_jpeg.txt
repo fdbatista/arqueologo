@@ -1,0 +1,43 @@
+ffd8-Cabecera de imagen JPEG
+ffe0-Marcador APP0 de aplicación (JFIF)
+ffe1-Marcador APP1 de aplicación (Exif)
+ffe2-Marcador APP2 (reservado para la aplicación)
+ffe3-Marcador APP3 (reservado para la aplicación)
+ffe4-Marcador APP4 (reservado para la aplicación)
+ffe5-Marcador APP5 (reservado para la aplicación)
+ffe6-Marcador APP6 (reservado para la aplicación)
+ffe7-Marcador APP7 (reservado para la aplicación)
+ffe8-Marcador APP8 (reservado para la aplicación)
+ffe9-Marcador APP9 (reservado para la aplicación)
+ffea-Reservado para la aplicación
+ffeb-Reservado para la aplicación
+ffec-Reservado para la aplicación
+ffed-Reservado para la aplicación
+ffef-Reservado para la aplicación
+ffdb-Tabla de cuantificación
+ffc0-Compresión DCT básica
+ffc4-Tabla de Huffman
+ffdd-Definición del intervalo de reinicio
+ffdc-Definición del número de líneas
+ffcc-Tabla de codificación aritmética
+ffc1-Compresión DCT extendida
+ffc2-Compresión DCT progresiva
+ffc3-Compresión sin pérdida (secuencial)
+ffc5-Compresión DCT secuencial
+ffc6-Compresión DCT progresiva
+ffc7-Compresión sin pérdida diferencial (secuencial)
+ffc8-Reservado para extensiones JPG
+ffc9-Compresión DCT secuencial
+ffca-Compresión DCT progresiva
+ffcb-Compresión sin pérdida (secuencial)
+ffcd-Compresión DCT secuencial
+ffce-Compresión DCT progresiva
+ffcf-Compresión sin pérdida (secuencial)
+fffe-Comentario
+fff0-Reservado para extensiones JPEG
+fffd-Reservado para extensiones JPEG
+ffde-Definición de la estructura jerárquica
+ffdf-Componente(s) de referencia expandido(s)
+ff01-Operaciones aritméticas temporales
+ffda-Inicio de información de la imagen
+ffd9-Terminación de imagen JPEG

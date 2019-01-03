@@ -1,0 +1,83 @@
+404-Registros IPTC
+425-CaptionDigest. Seguridad RSA o MD5
+424-Metadatos del fichero en formato XMP
+3ed-Estructura 'ResolutionInfo'
+426-Escala de impresión
+3ee-Nombres de los canales alfa
+415-Nombres alfa en Unicode
+3ef-Estructura 'DisplayInfo'
+41d-Identificadores alfa
+40d-Ángulo de vista global
+419-Altitud global de la imagen
+3f3-Banderas de impresión
+40a-Información de copyright
+2710-Información sobre banderas de impresión
+3f5-Información de tonalidades en modo color
+3f8-Funciones de transferencia de color
+400-Información de estado de capas
+402-Información sobre grupos de capas
+430-Recurso no documentado por Adobe
+436-Recurso de Photoshop CS3
+433-Recurso de Photoshop CS3
+434-Recurso de Photoshop CS3
+fa2-Recurso de Photoshop CS3
+fa3-Recurso de Photoshop CS3
+42d-Recurso no documentado por Adobe
+408-Información de guías y reglas
+41e-Lista de URLs
+41a-Slices
+428-Relación de aspecto
+40f-Perfil ICC
+411-Perfil ICC sin etiqueta
+414-Número base para generar IDs de capas
+40c-Vista previa (incluido a partir de la versión 5)
+421-Versión del manipulador de metadatos
+422-Información Exif 1
+fa0-Recurso no documentado por Adobe
+416e-Recurso no documentado por Adobe
+526f-Recurso no documentado por Adobe
+fa1-Recurso no documentado por Adobe
+6e6f-Modo de fusión 'normal' de capa
+5479-Recurso de capa no documentado
+6c75-Nombre de una capa
+6c6e-Recurso de capa no documentado
+6c79-ID de una capa
+636c-Recurso de capa no documentado
+696e-Recurso de capa no documentado
+6b6e-Recurso de capa no documentado
+6c73-Recurso de capa no documentado
+6c63-Recurso de capa no documentado
+6c66-Recurso de Photoshop CS3 o superior
+6678-Recurso de capa no documentado
+3f0-Caption de la imagen
+3f1-Información del borde de la imagen
+3f2-Color de fondo
+3f4-Información de escala de grises y multicanales
+3f6-Información de tonalidades en modo dual
+3f7-Funciones de transferencia de escalas de grises y multicanales
+3f9-Funciones de transferencia de tonos duales
+3fa-Información de imagen en tono dual
+3fb-Información referente a escala de grises (blanco y negro)
+3fc-Identificador obsoleto
+3fd-Opciones EPS
+3fe-Información de máscara rápida
+3ff-Identificador obsoleto
+401-Ruta de trabajo (sin salvar)
+403-Identificador obsoleto
+405-Modo de imagen para formatos de imágenes en bruto
+406-Calidad JPEG
+409-Vista previa de la imagen (solo para Photoshop 4)
+40b-URL
+40e-Muestreadores de color
+410-Marca de agua
+412-Efectos de visualización de capa
+413-Vista de tonos medios
+416-Contador de la tabla de color indexado (paleta)
+417-Índice de transparencia
+41b-URL del flujo de trabajo
+41c-Salto a XPEP
+423-Información Exif 2
+429-Composición de capa
+42a-Colores alternos en tono dual
+42b-Colores alternativos de muestra
+bb7-Nombre de ruta adjunta
